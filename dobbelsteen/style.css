@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-size: 5em;
+    text-align: center;
+}
+img {
+    width: 12%;
+    left: 50%;
+    margin: 1em 0 0 -6%;
+    position: absolute;
+}
+#resultaat{
+    color: white;
+    font-size: 3em;
+    bottom: 20%;
+    left: 35%;
+    position: absolute;
+}
+#score{
+    color: white;
+    font-size: 2em;
+    top: 8%;
+    right: 13%;
+    position: absolute;
+}
+.uitleg {
+    color: white;
+    font-size: 150%;
+}
